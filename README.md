@@ -1,1 +1,1 @@
-# stockalerts.github.io
+# stockalerts
